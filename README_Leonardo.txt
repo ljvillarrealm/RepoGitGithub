@@ -6,3 +6,7 @@ Me gusta jugar tennis e investigar sobre criptos.
 El libro que me estoy leyendo actualmente se titula: el libro negor de la nueva izquierda.
 
 Actualmente estoy interesado en la nube de AWS.
+
+
+
+Actualmente estoy en un squad de analitica, nos gustan los retos.
